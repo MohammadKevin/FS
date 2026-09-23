@@ -18,9 +18,9 @@ A complete fullstack digital agency solution with an Express.js & Prisma backend
 ---
 
 ## ✨ Key Features
-- ⚡ **Dynamic service portfolio and client testimonial management**: Dynamic service portfolio and client testimonial management
-- ⚡ **Admin settings controller for site metadata and social links**: Admin settings controller for site metadata and social links
-- ⚡ **Responsive landing page with modern animation aesthetics**: Responsive landing page with modern animation aesthetics
+- Dynamic service portfolio and client testimonial management
+- Admin settings controller for site metadata and social links
+- Responsive landing page with modern animation aesthetics
 
 ---
 
